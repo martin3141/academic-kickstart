@@ -1,0 +1,13 @@
+---
+title: "Metabolic profiling of the three neural derived embryonal pediatric tumors retinoblastoma, neuroblastoma and medulloblastoma, identifies distinct metabolic profiles."
+date: 2018-02-01
+publishDate: 2020-01-31T10:57:38.855455Z
+authors: ["Sarah E. Kohe", "Christopher D. Bennett", "Simrandip K. Gill", "Martin Wilson", "Carmel McConville", "Andrew C. Peet"]
+publication_types: ["2"]
+abstract: "The rare pediatric embryonal tumors retinoblastoma, medulloblastoma and neuroblastoma derive from neuroectodermal tissue and share similar histopathological features despite different anatomical locations and diverse clinical outcomes. As metabolism can reflect genetic and histological features, we investigated whether the metabolism of embryonal tumors reflects their similar histology, shared developmental and neural origins, or tumor location. We undertook metabolic profiling on 50 retinoblastoma, 39 medulloblastoma and 70 neuroblastoma using high resolution magic angle spinning magnetic resonance spectroscopy (1H-MRS). Mean metabolite concentrations identified several metabolites that were significantly different between the tumor groups including taurine, hypotaurine, glutamate, glutamine, GABA, phosphocholine, N-acetylaspartate, creatine, glycine and myoinositol,   < 0.0017. Unsupervised multivariate analysis found that each tumor group clustered separately, with a unique metabolic profile, influenced by their underlying clinical diversity. Taurine was notably high in all tumors consistent with prior evidence from embryonal tumors. Retinoblastoma and medulloblastoma were more metabolically similar, sharing features associated with the central nervous system (CNS). Neuroblastoma had features consistent with neural tissue, but also contained significantly higher myoinositol and altered glutamate-glutamine ratio, suggestive of differences in the underlying metabolism of embryonal tumors located outside of the CNS. Despite the histological similarities and shared neural metabolic features, we show that individual neuroectodermal derived embryonal tumors can be distinguished by tissue metabolic profile. Pathway analysis suggests the alanine-aspartate-glutamate and taurine-hypotaurine metabolic pathways may be the most pertinent pathways to investigate for novel therapeutic strategies. This work strengthens our understanding of the biology and metabolic pathways underlying neuroectodermal derived embryonal tumors of childhood."
+featured: false
+publication: "*Oncotarget*"
+tags: ["high resolution magnetic resonance spectroscopy; medulloblastoma; neuroblastoma; retinoblastoma; tumor metabolites"]
+doi: "10.18632/oncotarget.24168"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Metabolite Levels in Paediatric Brain Tumours Correlate with Histological Features."
+date: 2018-01-01
+publishDate: 2020-01-31T10:57:38.854885Z
+authors: ["Eleni Orphanidou-Vlachou", "Sarah E. Kohe", "Marie-Anne Brundler", "Lesley MacPherson", "Yu Sun", "Nigel Davies", "Martin Wilson", "Xiaoyan Pan", "Theodoros N. Arvanitis", "Richard G. Grundy", "Andrew C. Peet"]
+publication_types: ["2"]
+abstract: "Metabolite levels can be measured non-invasively using in vivo 1H magnetic resonance spectroscopy (MRS). These tumour metabolite profiles are highly characteristic for tumour type in childhood brain tumours; however, the relationship between metabolite values and conventional histopathological characteristics has not yet been fully established. This study systematically tests the relationship between metabolite levels detected by MRS and specific histological features in a range of paediatric brain tumours. Single-voxel MRS was performed routinely in children with brain tumours along with the clinical imaging prior to treatment. Metabolites were quantified using LCModel. Histological features were assessed semi-quantitatively for 27 children on H&amp;E and immunostained slides, blind to the metabolite values. Statistical analysis included 2-tailed independent-samples t tests and 2-tailed Spearman rank correlation tests. Ki67, cellular atypia, and mitosis correlated positively with choline metabolites, and phosphocholine in particular. Apoptosis and necrosis were both associated with lipid levels, with the relationship dependent on the use of long or short echo time MRS acquisitions. Neuronal components correlated negatively and glial components positively with N-acetyl-aspartate. Glial components correlated positively with myoinositol. Metabolite levels in children's brain tumours measured by MRS are closely associated with key histological features routinely assessed by histopathologists in the diagnostic process. This further elucidates our understanding of this important non-invasive diagnostic tool and strengthens our understanding of the relationship between metabolites and histological features."
+featured: false
+publication: "*Pathobiology : journal of immunopathology, molecular and cellular biology*"
+tags: ["Apoptosis; Biomarkers", "Tumor", "analysis; Brain", "diagnostic imaging", "metabolism", "pathology; Brain Neoplasms", "diagnostic imaging", "metabolism", "pathology; Child; Humans; Ki-67 Antigen", "analysis; Magnetic Resonance Spectroscopy; Necrosis; Staining and Labeling; Apoptosis; Histology; Ki67; Lipids; Magnetic resonance spectroscopy; Metabolites; Necrosis; Paediatric brain neoplasms"]
+doi: "10.1159/000458423"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Variation of T2 relaxation times in pediatric brain tumors and their effect on metabolite quantification."
+date: 2019-01-01
+publishDate: 2020-01-31T10:57:38.853929Z
+authors: ["Dominic Carlin", "Ben Babourina-Brooks", "Nigel P. Davies", "Martin Wilson", "Andrew C. Peet"]
+publication_types: ["2"]
+abstract: "Metabolite concentrations are fundamental biomarkers of disease and prognosis. Magnetic resonance spectroscopy (MRS) is a noninvasive method for measuring metabolite concentrations; however, quantitation is affected by T  relaxation. To estimate T  relaxation times in pediatric brain tumors and assess how variation in T  relaxation affects metabolite quantification. Retrospective. Twenty-seven pediatric brain tumor patients (n = 17 pilocytic astrocytoma and n = 10 medulloblastoma) and 24 age-matched normal controls. Short- (30 msec) and long-echo (135 msec) single-voxel MRS acquired at 1.5T. T  relaxation times were estimated by fitting signal amplitudes at two echo times to a monoexponential decay function and were used to correct metabolite concentration estimates for relaxation effects. One-way analysis of variance (ANOVA) on ranks were used to analyze the mean T  relaxation times and metabolite concentrations for each tissue group and paired Mann-Whitney U-tests were performed. The mean T  relaxation of water was measured as 181 msec, 123 msec, 90 msec, and 86 msec in pilocytic astrocytomas, medulloblastomas, basal ganglia, and white matter, respectively. The T  of water was significantly longer in both tumor groups than normal brain (P < 0.001) and in pilocytic astrocytomas compared with medulloblastomas (P < 0.01). The choline T  relaxation time was significantly longer in medulloblastomas compared with pilocytic astrocytomas (P < 0.05), while the T  relaxation time of NAA was significantly shorter in pilocytic astrocytomas compared with normal brain (P < 0.001). Overall, the metabolite concentrations were underestimated by ∼22% when default T  values were used compared with case-specific T  values at short echo time. The difference was reduced to 4% when individually measured water T  s were used. Differences exist in water and metabolite T  relaxation times for pediatric brain tumors, which lead to significant underestimation of metabolite concentrations when using default water T  relaxation times. 3 Technical Efficacy: Stage 2 J. Magn. Reson. Imaging 2019;49:195-203."
+featured: false
+publication: "*Journal of magnetic resonance imaging : JMRI*"
+tags: ["MRS; MRS quantification; T2 relaxation; pediatric brain tumors"]
+doi: "10.1002/jmri.26054"
+---
+

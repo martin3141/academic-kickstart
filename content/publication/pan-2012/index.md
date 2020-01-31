@@ -1,14 +1,13 @@
 ---
-title: "The lipid composition of isolated cytoplasmic lipid droplets from a human cancer cell line, BE(2)M17."
-date: 2012-06-01
-publishDate: 2020-01-24T17:04:01.042064Z
-authors: ["Xiaoyan Pan", "Martin Wilson", "Carmel McConville", "Marie-Anne Brundler", "Theodoros N. Arvanitis", "John P. Shockcor", "Julian L. Griffin", "Risto A. Kauppinen", "Andrew C. Peet"]
+title: "The size of cytoplasmic lipid droplets varies between tumour cell lines of the nervous system: a 1H NMR spectroscopy study."
+date: 2012-12-01
+publishDate: 2020-01-31T10:57:38.846948Z
+authors: ["Xiaoyan Pan", "Martin Wilson", "Carmel McConville", "Theodoros N. Arvanitis", "Risto A. Kauppinen", "Andrew C. Peet"]
 publication_types: ["2"]
-abstract: "(1)H nuclear magnetic resonance spectroscopy (NMR) resonances from lipids in tumours are associated with tumour grade and treatment response. The origin of these NMR signals is mainly considered to be cytoplasmic lipid droplets (LDs). Techniques exist for isolating LDs but little is known about their composition and its relationship to NMR signals. In this work, density-gradient ultracentrifugation was performed on homogenised human cancer cells to isolate LDs. (1)H NMR was performed on whole cells, isolated LDs and their extracts. Heteronuclear single quantum coherence spectroscopy (HSQC) and liquid chromatography mass spectroscopy (LC-MS) were performed on lipid extracts of LDs. Staining and microscopy were used to characterize isolated LDs. An excellent agreement in chemical shift and relative signal intensity was observed between lipid resonances in cells and isolated LD spectra supporting that NMR-visible lipids originate primarily from LDs. Isolated LDs showed high concentrations of unsaturated lipids, a oleic-to-linoleic acid ratio greater than two and a cholesteryl ester (ChE)-to-cholesterol (Ch) ratio close to unity. These ratios were several-fold greater than respective ratios in whole cells, demonstrating isolation is important to characterize LD composition. LDs contain a specific group of lipid species that are likely to contribute to the (1)H NMR spectrum of cells."
+abstract: "Cytoplasmic lipid droplets (LDs) are dynamic cellular organelles; their accumulation is associated with several cellular processes, such as cell proliferation, apoptosis and necrosis. (1)H Nuclear Magnetic Resonance (NMR) spectroscopy detects resonances from lipids present in cytoplasmic (LDs); an understanding of the relationship between LD characteristics and NMR lipid signals is important. In this study, five nervous system cancer cell lines were investigated. Nile red staining was used to measure the diameter of LDs. High-resolution magic angle spinning NMR (HR-MAS) was performed on harvested cell pellets to quantify the patterns of lipid signals. LDs were present in all five cell lines with different morphology. An average LD diameter of approximately 0.2 μm was found in all cell types. Diameter of the largest LDs varied across the cell lines. The intensity of NMR lipid signals varied greatly between cell types, and a good correlation was found between total volume of LDs and the proton NMR lipid signal intensity at 0.9 and 1.3 ppm. The correlation implied that little NMR signal is detected from LDs of diameters less than approximately 0.34 μm, most likely due to restriction of rotational motion of the lipids."
 featured: false
-publication: "*Mol Biosyst*"
-tags: ["Cell Line", "Tumor; Cytoplasm", "chemistry; Fatty Acids", "analysis/chemistry/classification; Humans; Neuroblastoma", "chemistry/metabolism; Nuclear Magnetic Resonance", "Biomolecular"]
-url_pdf: "http://dx.doi.org/10.1039/c2mb05485j"
-doi: "10.1039/c2mb05485j"
+publication: "*Magma (New York, N.Y.)*"
+tags: ["Animals; Apoptosis; Cell Line; Cell Line", "Tumor; Cell Proliferation; Cytoplasm", "metabolism; Humans; Indoles", "pharmacology; Lipids", "chemistry; Magnetic Resonance Spectroscopy", "methods; Microscopy", "Fluorescence", "methods; Models", "Statistical; Necrosis; Nervous System", "pathology; Oxazines", "pharmacology; Rats"]
+doi: "10.1007/s10334-012-0315-x"
 ---
 
